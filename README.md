@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xinran!  
+# 👋 Hi, I'm Lena!  
 
 Welcome to my GitHub! I'm a **data analyst** with a focus on **business and financial analysis**. I enjoy transforming data into actionable insights, solving analytical problems, and developing projects that highlight real-world applications.  
 
