@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **data analyst** with a focus on **business and fina
 
 ---
 
-## 🔍 About Me  
+## About Me  
 
 - **Specialties:** Data Analysis | Business and Financial Analysis | Business Intelligence  
 - **Tech Stack:** SQL, Python, R, Tableau, Excel  
